@@ -243,7 +243,7 @@ int main()
 		else
 		{
 			printf("MEMORY NOT ALLOCATED");
-			exit(EXIT_FAILURE);
+			exit(EXIT_FAILURE); 
 		}
 	free(values);
 	}
