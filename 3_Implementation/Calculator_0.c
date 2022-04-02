@@ -68,7 +68,7 @@ int main()
 	printf("*       Available Operators      *\n");
 	printf("**********************************\n");
 	printf("*  Addition       --->     +     *\n");
-    printf("*  Subtraction    --->     -     *\n");
+        printf("*  Subtraction    --->     -     *\n");
 	printf("*  Multiplication --->     *     *\n");
  	printf("*  Division       --->     /     *\n");
 	printf("*  Modulo         --->     M     *\n");
