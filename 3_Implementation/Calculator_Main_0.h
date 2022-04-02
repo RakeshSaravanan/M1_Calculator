@@ -1,5 +1,5 @@
 /**
- * @brief Function Declaration In Header File
+ *@brief Function Declaration In Header File
  * 
  * @param[in,out]  val  pointer parameter
  * @return double 
