@@ -38,6 +38,10 @@
 
 	Used by everyone in the world.
 
+## How
+
+	open source
+
 ## High Level Requirement
 
 	HLR01			User can select the mode from the list										Implemented
